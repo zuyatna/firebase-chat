@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591308694562",
+    "project_id": "fir-chat-13a1c",
+    "storage_bucket": "fir-chat-13a1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591308694562:android:25a9062340470aa788d67b",
+        "android_client_info": {
+          "package_name": "com.zuyatna.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591308694562-30rmfj5f8u7rdl6g8eg9oacdfu5blq7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zuyatna.firebasechat",
+            "certificate_hash": "19f59cff15c5c33d352cda00d11d8a214ada3217"
+          }
+        },
+        {
+          "client_id": "591308694562-s5nhm12htd9dt44ejaqlif46eelhroei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbgTE_b1pHuZGLuNr5TioniokBEy9SyE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591308694562-s5nhm12htd9dt44ejaqlif46eelhroei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
